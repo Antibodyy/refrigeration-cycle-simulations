@@ -1,2 +1,2 @@
-# COPs-of-transcritical-CO2-cycles
-Using high pressure correlations and NIST REFPROP database for fluids.
+# COPs-of-refrigeration-cycles
+Using NIST REFPROP database for fluids.
